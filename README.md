@@ -1,2 +1,3 @@
 # Arduino_Projects
-this is repository of computer architecture
+This is repository of computer architecture using Arduino Board.
+
